@@ -1,5 +1,5 @@
-#include <GyverHub.h>
-#include <WiFi.h>
+#include <GyverHub.h>  // Подключаем библиотеку для билдера
+#include <WiFi.h> // Подключаем библиотеку для WiFi модуля
 #include <WebServer.h>
 #include <Arduino.h>
 #include <AsyncTCP.h>
